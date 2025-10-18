@@ -33,7 +33,7 @@ This PowerShell script helps set up **ComfyUI** on Windows for AMD RDNA GPUs (RD
 1. **Clone this repository:**
 
 ```powershell
-git clone [https://github.com/yourusername/comfyui-amd-setup.git](https://github.com/aqarooni02/Comfyui-AMD-Windows-Install-Script)
+git clone https://github.com/aqarooni02/Comfyui-AMD-Windows-Install-Script
 cd comfyui-amd-setup
 ````
 
